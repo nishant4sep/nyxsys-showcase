@@ -54,9 +54,15 @@ Daily staff attendance tracking — present / half-day / absent, exportable to C
 
 ---
 
+## Booking Website
+
+A separate, public-facing app (Next.js) that lets customers book appointments directly — syncs with the desktop app in real time through the shared package. Live and in daily use.
+
+**Live: [northernbloom.in](https://northernbloom.in)** — 4.5★ on Google, 780+ reviews.
+
 ## Also in the system (not pictured here)
 
-Counter billing with QR payments, staff commission tracking, inventory management, a developer-only admin panel for system config and backups, and a separate public booking website that syncs live with the desktop app.
+Counter billing with QR payments, staff commission tracking, inventory management, and a developer-only admin panel for system config and backups.
 
 ---
 
