@@ -1,4 +1,4 @@
-# NYX SYS — Northern Bloom
+# NYX SYS
 
 A desktop-first, offline-capable business management platform, built and deployed for a live salon client (Northern Bloom, Kathua). Built end to end — architecture, UI, backend, and the sync layer.
 
