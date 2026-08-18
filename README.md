@@ -40,18 +40,6 @@ Calendar-based scheduling, filterable by status, with a live feed of bookings co
 
 ![Appointments](./screenshots/appointments.png)
 
-## Customers
-
-Customer database with visit history and quick search by name or phone.
-
-![Customers](./screenshots/customers.png)
-
-## Attendance
-
-Daily staff attendance tracking — present / half-day / absent, exportable to CSV.
-
-![Attendance](./screenshots/attendance.png)
-
 ---
 
 ## Booking Website
@@ -62,28 +50,15 @@ A separate, public-facing app (Next.js) that lets customers book appointments di
 
 <table>
   <tr>
-    <td align="center"><img src="./screenshots/booking-home.jpg" width="200"/><br/><sub>Home</sub></td>
-    <td align="center"><img src="./screenshots/booking-home-light.jpg" width="200"/><br/><sub>Home (Light)</sub></td>
-    <td align="center"><img src="./screenshots/booking-packages.jpg" width="200"/><br/><sub>Packages</sub></td>
-    <td align="center"><img src="./screenshots/booking-reviews.jpg" width="200"/><br/><sub>Reviews</sub></td>
-  </tr>
-  <tr>
     <td align="center"><img src="./screenshots/booking-select-service.jpg" width="200"/><br/><sub>Select Service</sub></td>
-    <td align="center"><img src="./screenshots/booking-select-service-gents.jpg" width="200"/><br/><sub>Gents Services</sub></td>
-    <td align="center"><img src="./screenshots/booking-select-staff.jpg" width="200"/><br/><sub>Select Staff</sub></td>
     <td align="center"><img src="./screenshots/booking-select-time.jpg" width="200"/><br/><sub>Select Time</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./screenshots/booking-your-details.jpg" width="200"/><br/><sub>Your Details</sub></td>
-    <td align="center"><img src="./screenshots/booking-review-confirm.jpg" width="200"/><br/><sub>Review & Confirm</sub></td>
     <td align="center"><img src="./screenshots/booking-confirmed.jpg" width="200"/><br/><sub>Confirmed</sub></td>
-    <td></td>
   </tr>
 </table>
 
 ## Also in the system (not pictured here)
 
-Counter billing with QR payments, staff commission tracking, inventory management, and a developer-only admin panel for system config and backups.
+Customer database with visit history, staff attendance tracking, counter billing with QR payments, staff commission tracking, inventory management, and a developer-only admin panel for system config and backups.
 
 ---
 
