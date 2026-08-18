@@ -60,6 +60,27 @@ A separate, public-facing app (Next.js) that lets customers book appointments di
 
 **Live: [northernbloom.in](https://northernbloom.in)** — 4.5★ on Google, 780+ reviews.
 
+![Booking Home](./screenshots/booking-home.jpg)
+![Booking Home (Light)](./screenshots/booking-home-light.jpg)
+
+Service packages, priced as one — no surprises at checkout.
+
+![Packages](./screenshots/booking-packages.jpg)
+
+Google reviews pulled straight into the page.
+
+![Reviews](./screenshots/booking-reviews.jpg)
+
+A guided 6-step booking flow: category → service → staff → time → details → confirm.
+
+![Select Service](./screenshots/booking-select-service.jpg)
+![Select Service — Gents](./screenshots/booking-select-service-gents.jpg)
+![Select Staff](./screenshots/booking-select-staff.jpg)
+![Select Time](./screenshots/booking-select-time.jpg)
+![Your Details](./screenshots/booking-your-details.jpg)
+![Review & Confirm](./screenshots/booking-review-confirm.jpg)
+![Booking Confirmed](./screenshots/booking-confirmed.jpg)
+
 ## Also in the system (not pictured here)
 
 Counter billing with QR payments, staff commission tracking, inventory management, and a developer-only admin panel for system config and backups.
